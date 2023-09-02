@@ -10,9 +10,6 @@ To run node: node backend/server.js
 
 To run angular: ng serve
 
-The uri to the database I created: 'mongodb+srv://bassantthossam:BH1234@cluster0.gwvwumj.mongodb.net/?retryWrites=true&w=majority'
-But I have to add the IP address, so that the database can be accessed.
-
 # 4 Frontend components: 
 1. Home
 
