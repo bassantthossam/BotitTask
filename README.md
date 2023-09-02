@@ -1,4 +1,4 @@
-# BotitTask
+# Botit Task
 
 # Technologies used:
 MEAN stack
